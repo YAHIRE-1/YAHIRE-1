@@ -1,6 +1,9 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+# 👋🏼 Hello World! I'm Yahir, a FullStack Developer
 
-###
+🛜 Currently working on my own WebPage <br>
+👨🏼‍🎓 Studying Computer Science <br> 
+👨🏼‍💻 Passionate about building useful and creative web apps<br>
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
@@ -48,5 +51,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
-
-###
